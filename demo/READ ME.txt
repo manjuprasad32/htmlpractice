@@ -1,0 +1,16 @@
+READ ME FILE:
+
+1. Copy this enitre folder in your WWW or htdocs 
+2. Create a new Database and update that in the conn.php
+3. Inside new Database create a table as-
+	table name - test 
+		2 Columns - 
+			id as int
+			name as varchar
+4.In browser just give the url-
+    localhost/predeploy 
+	
+5. You are done 
+6. ANALYZE THE IMAGE LOCATIONS, CSS PATHS AND ENTIRE SETUP
+
+THANK YOU
